@@ -3,34 +3,40 @@ layout: cv
 title: Gunderson Resume
 ---
 # Jonathan Gunderson
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="https://jonathangunderson290148457.wordpress.com/">Personal Website</a>
+| <a href="https://www.linkedin.com/in/jonathan-gunderson-005208194/">LinkedIn</a>
+| <a href="https://github.com/An-nym-us?tab=repositories">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
-## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
 
 
+## Skills, Certificates, Software Experience
+- Proficient Programing languages- C++, Python, SQL
+- Limited Experience languages- JavaScript, Clojure, Excel VBA
+- Epic Games, Unreal Engine 3D Game Engine (C++ and Blueprints)
+- Systems Solid Works 3D CAD (Professional Level Certificate)
+- Autodesk Inventor 3D CAD Softw
+###
+## Higher Education
+_Dates of Attendance:_ '2019-2023'
+- Brigham Young University Idaho, Rexburg, ID
+- Assigned Major - Software Engineering
+## Lower Education and Awards
+_Sun Prairie High School Sun Prairie, WI:_ '2014 - 2017'
+##### Graduated student, 3.72GPA
+## School Positions & Awards
+- Lead Mechanical & Electrical Engineer for the Formula High School Race Team
+- Acquired Eagle Scout Rank from The Boy Scouts of America
+- Obtained the Martin Luther King Jr. Academic award
+- Earned Additional Educational Scholarships
+
+##
 ## Experience
 
-
-
+###
 ## Proselyting Missionary & Technology Specialist
 _The Church of Jesus Christ of Latter-day Saints:_ '2017 - 2019'
 __Chicago, IL & Des Moines, IA__
@@ -40,6 +46,8 @@ __Chicago, IL & Des Moines, IA__
 - 24/7 tech-support for 130+ full-time proselyting missionaries
 - Develop resources guides on how to utilize cellular devices and church developed applications
 
+
+###
 ## Tack Welder & Metal Finisher
 _Robbins Manufacturing:_ 'July of 2017'
 __Fall River, WI__
@@ -47,15 +55,15 @@ __Fall River, WI__
 - Assemble fabricated products and apply temporary welds
 - Finalize metal products before entering the painting process
 
-## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+###
+### IT Specialist
+_Sun Prairie Area School District:_ 'June of 2016 (Summer Job)'
+___Sun Prairie, WI___
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+#### Duties-
+- Install, and Repair Computer Systems and Laptop
+- Organize, Catalog, Large inventories of Laptops to all students of the Sun Prairie School District
 
 
 <!-- ### Footer
